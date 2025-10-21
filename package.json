@@ -1,0 +1,8 @@
+{
+  "name": "omega-ip-logger",
+  "version": "1.0.0",
+  "description": "A stealth IP logger for Vercel.",
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
